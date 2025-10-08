@@ -1,10 +1,6 @@
 # Project-1
 
-You’re absolutely right, Nivedhitha 😊 — thank you for pointing that out!
 
-Here’s your **final short GitHub-ready README**, with your name mentioned properly 👇
-
----
 
 # 🎮 Tic Tac Toe (Java)
 
@@ -39,7 +35,7 @@ Two players take turns marking cells on a 3×3 board until one wins or the game 
 1. **Compile all files:**
 
  
-   javac App.java board/*.java player/*.java game/*.java
+   javac App.java, board.java, player.java, game.java
    
 2. **Run the program:**
 
