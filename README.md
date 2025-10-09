@@ -28,26 +28,7 @@ Two players take turns marking cells on a 3×3 board until one wins or the game 
 * **`player.Player`** → Stores and manages player details
 * **`game.Game`** → Contains the core game logic (turns, winner check, etc.)
 
----
-
-### ⚙️ How to Run
-
-1. **Compile all files:**
-
- 
-   javac App.java, board.java, player.java, game.java
-   
-2. **Run the program:**
-
-   
-   java App
-  
 
 
-
-### 🧰 Requirements
-
-* Java 8 or higher
-* Command line or any IDE (IntelliJ / Eclipse / VS Code)
 
 
